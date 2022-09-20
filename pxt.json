@@ -11,7 +11,9 @@
         "README.md",
         "assets.json",
         "tutorial-info-cache.json",
-        "aa-tutorial.md"
+        "aa-tutorial.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
