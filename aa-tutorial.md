@@ -9,9 +9,9 @@
 
 ## Change background color
 
-Drag a `||scene:set background color||` block into the `||loops:on start||` block.
+- :tree: Drag a `||scene:set background color||` block into the `||loops:on start||` block.
 
-Click on the oval to change the background color.
+- :paint brush: Click on the oval to change the background color.
 
 ```blocks
 scene.setBackgroundColor(0)
@@ -19,9 +19,9 @@ scene.setBackgroundColor(0)
 
 ## Add player character
 
-Drag a `||sprites: set sprite to||` block into the  `||loops:on start||` block.
+- :paper plane: Drag a `||sprites: set sprite to||` block into the  `||loops:on start||` block.
 
-Click on the grey oval to open the sprite editor. You can create your own sprite, or choose one from the Gallery.
+- :paint brush: Click on the grey oval to open the sprite editor. You can create your own sprite, or choose one from the Gallery.
 
 Practice using the sprite editor to see how much space a sprite takes up on the screen.
 ```blocks
@@ -63,7 +63,7 @@ let mySprite = sprites.create(img`
 
 ## Add player movement
 
-Drag a `||controller: move sprite with buttons||` block into the  `||loops:on start||` block.
+- :game pad: Drag a `||controller: move sprite with buttons||` block into the  `||loops:on start||` block.
 
 Practice moving your character around.
 
@@ -106,7 +106,7 @@ controller.moveSprite(mySprite)
 
 ## Add background
 
-Drag a `||scene: set background image to|` block into the  `||loops:on start||` block.
+- :tree: Drag a `||scene: set background image to|` block into the  `||loops:on start||` block.
 
 Create your own background or choose from the gallery.
 
